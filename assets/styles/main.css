@@ -1,0 +1,282 @@
+@font-face {
+	font-family: 'Exo2 Black';
+	src: url('../fonts/Exo2-Black.ttf') format('truetype');
+	font-weight: 900;
+}
+
+@font-face {
+	font-family: 'Exo2 Black Italic';
+  src: url('../fonts/Exo2-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Exo2 Bold';
+  src: url('../fonts/Exo2-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+	font-family: 'Exo2 Bold Italic';
+  src: url('../fonts/Exo2-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Exo2 ExtraBold';
+  src: url('../fonts/Exo2-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face {
+	font-family: 'Exo2 ExtraBold Italic';
+  src: url('../fonts/Exo2-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Exo2 ExtraLight';
+  src: url('../fonts/Exo2-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+}
+
+@font-face {
+	font-family: 'Exo2 ExtraLight Italic';
+  src: url('../fonts/Exo2-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Exo2 Italic';
+  src: url('../fonts/Exo2-Italic.ttf') format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Exo2 Light';
+  src: url('../fonts/Exo2-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+	font-family: 'Exo2 Light Italic';
+  src: url('../fonts/Exo2-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Exo2 Medium';
+  src: url('../fonts/Exo2-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+	font-family: 'Exo2 Medium Italic';
+  src: url('../fonts/Exo2-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Exo2 Regular';
+  src: url('../fonts/Exo2-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Exo2 SemiBold';
+  src: url('../fonts/Exo2-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+	font-family: 'Exo2 SemiBold Italic';
+  src: url('../fonts/Exo2-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Exo2 Thin';
+  src: url('../fonts/Exo2-Thin.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+	font-family: 'Exo2 Thin Italic';
+  src: url('../fonts/Exo2-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'Inter Black';
+  src: url('../fonts/Inter-Black.ttf') format('truetype');
+  font-weight: 900;
+}
+
+@font-face {
+	font-family: 'Inter Bold';
+  src: url('../fonts/Inter-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+	font-family: 'Inter ExtraBold';
+  src: url('../fonts/Inter-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face {
+	font-family: 'Inter ExtraLight';
+  src: url('../fonts/Inter-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+}
+
+@font-face {
+	font-family: 'Inter Light';
+  src: url('../fonts/Inter-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+	font-family: 'Inter Medium';
+  src: url('../fonts/Inter-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+	font-family: 'Inter Regular';
+  src: url('../fonts/Inter-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Inter SemiBold';
+  src: url('../fonts/Inter-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+	font-family: 'Inter Thin';
+  src: url('../fonts/Inter-Thin.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+	font-family: 'PublicSans Black';
+  src: url('../fonts/PublicSans-Black.ttf') format('truetype');
+  font-weight: 900;
+}
+
+@font-face {
+	font-family: 'PublicSans Black Italic';
+  src: url('../fonts/PublicSans-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'PublicSans Bold';
+  src: url('../fonts/PublicSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+	font-family: 'PublicSans Bold Italic';
+  src: url('../fonts/PublicSans-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'PublicSans ExtraBold';
+  src: url('../fonts/PublicSans-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face {
+	font-family: 'PublicSans ExtraBold Italic';
+  src: url('../fonts/PublicSans-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'PublicSans ExtraLight';
+  src: url('../fonts/PublicSans-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+}
+
+@font-face {
+	font-family: 'PublicSans ExtraLight Italic';
+  src: url('../fonts/PublicSans-ExtraLightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'PublicSans Italic';
+  src: url('../fonts/PublicSans-Italic.ttf') format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'PublicSans Light';
+  src: url('../fonts/PublicSans-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+	font-family: 'PublicSans Light Italic';
+  src: url('../fonts/PublicSans-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'PublicSans Medium';
+  src: url('../fonts/PublicSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+	font-family: 'PublicSans Medium Italic';
+  src: url('../fonts/PublicSans-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'PublicSans Regular';
+  src: url('../fonts/PublicSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'PublicSans SemiBold';
+  src: url('../fonts/PublicSans-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+	font-family: 'PublicSans SemiBold Italic';
+  src: url('../fonts/PublicSans-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+	font-family: 'PublicSans Thin';
+  src: url('../fonts/PublicSans-Thin.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+	font-family: 'PublicSans Thin Italic';
+  src: url('../fonts/PublicSans-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
